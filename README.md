@@ -63,13 +63,3 @@ The project is structured as a standard Next.js application:
     ```bash
     npm run dev or yarn dev or pnpm dev
     ```
-
-5.  **Open your browser and visit:** `http://localhost:3000`
-
-## Contributing
-
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-(Add a license if applicable, e.g., MIT License)
