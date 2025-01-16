@@ -5,6 +5,5 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 };
-module.exports = {};
 
 export default nextConfig;
