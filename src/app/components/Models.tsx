@@ -8,10 +8,9 @@ const Models = () => {
       </h1>
       <div
         className="  
-          grid grid-cols-2 gap-1
-          mx-auto max-w-screen-xl px-6 
-          md:px-8 
-          lg:px-12"
+          grid grid-cols-2 gap-1 px-1
+          mx-auto max-w-screen-xl 
+          "
       >
         <Card src="/modelos/female1.jpg" alt="female1" />
         <Card src="/modelos/female2.jpg" alt="female1" />
